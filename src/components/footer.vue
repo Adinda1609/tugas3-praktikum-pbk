@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer-map" id="contact">
+  <footer class="footer-map" id="footer-contact">
     <div class="footer-container">
       <!-- Map Section -->
       <div class="footer-map-left">
@@ -52,6 +52,6 @@
 
 <script>
 export default {
-  name: "Footer",
+  name: "Footer"
 };
 </script>
