@@ -38,11 +38,11 @@
 
 <script>
 import Navbar from './components/navbar.vue'
-import Carousel from './components/Carousel.vue'
-import Products from './components/Products.vue'
-import About from './components/About.vue'
-import Footer from './components/Footer.vue'
-import Cart from './components/Cart.vue'
+import Carousel from './components/carousel.vue'
+import Products from './components/products.vue'
+import About from './components/about.vue'
+import Footer from './components/footer.vue'
+import Cart from './components/cart.vue'
 
 export default {
   components: { Navbar, Carousel, Products, About, Footer, Cart },
