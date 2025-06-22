@@ -61,11 +61,11 @@ export default {
       ],
       products: [
         { id: 1, name: "Vintage Rose Bucket", description: "Adorable vintage-style bucket", price: "$24.99", oldPrice: "$34.99", badge: "Sale!", image: new URL('./assets/product1.jpeg', import.meta.url).href },
-        { id: 2, name: "Pearl Handle Basket", description: "Elegant basket with pearl handles", price: "$32.50", badge: "New", image: new URL('./assets/product2.jpg', import.meta.url).href },
-        { id: 3, name: "Floral Storage Set", description: "Set of 3 floral containers", price: "$45.00", oldPrice: "$55.00", badge: "Popular", image: new URL('./assets/product3.jpg', import.meta.url).href },
-        { id: 4, name: "Lace Trim Organizer", description: "Cotton organizer with lace", price: "$28.75", badge: "Trending", image: new URL('./assets/product4.jpg', import.meta.url).href },
+        { id: 2, name: "Pearl Handle Basket", description: "Elegant basket with pearl handles", price: "$32.50", badge: "New", image: new URL('./assets/product2.webp', import.meta.url).href },
+        { id: 3, name: "Lilac Whisper", description: "Set of 3 floral containers", price: "$45.00", oldPrice: "$55.00", badge: "Popular", image: new URL('./assets/product3.webp', import.meta.url).href },
+        { id: 4, name: "Love Buddy", description: "Cotton organizer with lace", price: "$28.75", badge: "Trending", image: new URL('./assets/product4.jpg', import.meta.url).href },
         { id: 5, name: "Shabby Chic Bucket", description: "Distressed finish bucket", price: "$36.99", badge: "Limited", image: new URL('./assets/product5.webp', import.meta.url).href },
-        { id: 6, name: "Ribbon Storage Box", description: "Box adorned with satin ribbons", price: "$22.50", oldPrice: "$29.99", badge: "Sale!", image: new URL('./assets/product6.jpg', import.meta.url).href }
+        { id: 6, name: "Luxe Bouqet", description: "Box adorned with satin ribbons", price: "$22.50", oldPrice: "$29.99", badge: "Sale!", image: new URL('./assets/product6.jpg', import.meta.url).href }
       ]
     }
   },
